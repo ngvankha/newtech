@@ -1,0 +1,12 @@
+1. Gửi tin nhắn từ ứng dụng bằng cách sử dụng thiết bị đầu cuối cổng nối tiếp tới
+Tiện ích Hercules SETUP
+2. Gửi tin nhắn từ tiện ích Hercules SETUP bằng cách sử dụng thiết bị đầu cuối cổng nối tiếp
+để ứng dụng
+3. Gửi tin nhắn !1:T:39.5## từ tiện ích Hercules SETUP bằng cách sử dụng
+thiết bị đầu cuối cổng nối tiếp đến máy chủ Adaf nhung và hiển thị nhiệt độ trên
+Bảng điều khiển là 39,5
+4. Gửi tin nhắn !1:H:80##!1:T:29.5## từ tiện ích Hercules SETUP bằng cách
+sử dụng thiết bị đầu cuối cổng nối tiếp đến máy chủ adafbean và hiển thị nhiệt độ
+và Humity trên Dashboard là 29,5, 80
+5. Gửi trạng thái nút khi bật hoặc tắt từ Bảng điều khiển tới
+Tiện ích Hercules SETUP sử dụng thiết bị đầu cuối cổng nối tiếp
